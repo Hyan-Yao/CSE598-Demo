@@ -1,4 +1,4 @@
-# CSE598-ToolUse-Demo
+# CSE598-Demo: tool branch
 
 A tiny login service with a seeded bug. It is the runtime example for
 CSE 598 Lab 5 (tool use): the goal is to watch a coding agent find and fix
@@ -17,7 +17,7 @@ AGENTS.md        instructions the agent reads before it starts
 ## Get it
 
 ```
-git clone https://github.com/Hyan-Yao/CSE598-ToolUse-Demo.git
+git clone -b tool https://github.com/Hyan-Yao/CSE598-Demo.git CSE598-ToolUse-Demo
 cd CSE598-ToolUse-Demo
 ```
 
